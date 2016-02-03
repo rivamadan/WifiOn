@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wifi On</string>
+    <string name="action_settings">Settings</string>
+    <string name="notification_title">WIFI IS OFF</string>
+    <string name="notification_message">YOU ARE USING DATA!</string>
+    <string name="reminder">WIFI REMINDERS ARE</string>
+    <string name="reminder_off_title">WIFI REMINDER IS OFF</string>
+</resources>
